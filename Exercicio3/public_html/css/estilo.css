@@ -1,0 +1,25 @@
+#divA, #divC{
+    min-height: 100px;
+    background-color: #0062cc;
+}
+
+#divE, #divD{
+    min-height: 100px;
+    background-color: #000;
+}
+
+#divB{
+    min-height: 500px;
+    background-color: #34ce57
+}
+#divB{
+    padding-top: 50px; 
+}
+a {
+    color: #ffffff;
+}
+#texto{
+    font-size: 20px;
+    color:#000;
+    
+}
